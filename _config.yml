@@ -1,4 +1,5 @@
 theme: jekyll-theme-slate
 title: Samuele's Github page
 description: My space on the web. My portfolio and my blog
-exclude: README.md
+exclude: 
+- README.md
