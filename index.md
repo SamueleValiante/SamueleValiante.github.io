@@ -10,11 +10,11 @@ Welcome to my personal web page! I'm an student of computer science at the Unive
 - Java
 - Bash
 - Javascript
-- HTML/CSS
-- SQL
 - Typescript
 - NodeJS
+- HTML/CSS
 - XML
+- SQL
 
 ### Sistemi operativi usati
 - Windows XP/Vista/7/8/10/11
@@ -33,10 +33,6 @@ Welcome to my personal web page! I'm an student of computer science at the Unive
 ## Progetti personali
 
 ### MotorMindHub 
-<div align="center">
-      <image src="https://github.com/SamueleValiante/SamueleValiante.github.io/blob/main/tokenpwd.png" alt="MotorMindHub" width=200>   
-</div>
-
 ### TinyNIDS
 ### MyIdioma
 ### SVcars
